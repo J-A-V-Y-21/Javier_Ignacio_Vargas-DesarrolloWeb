@@ -1,5 +1,4 @@
 # Javier_Ignacio_Vargas-DesarrolloWeb
-Student of commission 55 
 This project is licensed under the terms of the Apache License 2.0 (Apache-2.0).
 Web pages
 https://www.apache.org/licenses/LICENSE-2.0
